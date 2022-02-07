@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir Alam</h1>
-<h3 align="center">Full Stack Developer , ML Enthusiastic having Ability to formulate solutions with a keen sense of attention to detail.</h3>
+<h3 align="center">Full Stack Developer , ML and AI Enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiramrullah&label=Profile%20views&color=0e75b6&style=flat" alt="samiramrullah" /> </p>
 
