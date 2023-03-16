@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samiramrullah@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1bUheckov17u0Wt8DBjI3eaHunL4J662S/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/15QzT9q8khM1cLlqgxBHAZB6vIje9X8i1/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny, Energetic and Passionate thinker**
 
