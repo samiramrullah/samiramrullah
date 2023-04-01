@@ -25,6 +25,8 @@
   </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="seaborn" width="40" height="40"/> 
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="seaborn" width="40" height="40"/> 
+  </a>
 </p>
 
 
