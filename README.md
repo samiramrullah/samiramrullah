@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samiramrullah](https://github.com/samiramrullah)
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, Machine Learning, Computer Vision**
+- 💬 Ask me about **Web Development, Machine Learning, Computer Vision, Team Management**
 
 - 📫 How to reach me **samiramrullah@gmail.com**
 
