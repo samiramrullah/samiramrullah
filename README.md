@@ -228,4 +228,3 @@ Happy to talk about **Application Security · Security Engineering · Secure Sof
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer" alt="" width="100%" />
 </p>
 (https://www.samiramrullah.com/)
-](https://www.samiramrullah.com/)
