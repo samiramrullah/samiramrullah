@@ -1,4 +1,4 @@
-[[<!-- ───────────────────────── HEADER ───────────────────────── -->
+<!-- ───────────────────────── HEADER ───────────────────────── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0e75b6,100:111827&height=230&section=header&text=Samir%20Alam&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Samir Alam" width="100%" />
 </p>
