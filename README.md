@@ -1,4 +1,4 @@
-[<!-- ───────────────────────── HEADER ───────────────────────── -->
+[[<!-- ───────────────────────── HEADER ───────────────────────── -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0e75b6,100:111827&height=230&section=header&text=Samir%20Alam&fontSize=64&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Samir Alam" width="100%" />
 </p>
@@ -228,3 +228,4 @@ Happy to talk about **Application Security · Security Engineering · Secure Sof
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer" alt="" width="100%" />
 </p>
 (https://www.samiramrullah.com/)
+](https://www.samiramrullah.com/)
